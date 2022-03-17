@@ -7,4 +7,6 @@ See you then.
 
 Second Commit;
 
-Hello... MY Name.
+Hello... MY Name...
+
+Lorem Ipse.
