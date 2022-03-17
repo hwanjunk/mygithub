@@ -1,5 +1,6 @@
 Hello World..
 
 Nike Korea 
-
-Alex Kwon
+Hello my name is "Alex Kwon".
+Thank you so much...
+See you then.
