@@ -8,4 +8,7 @@ See you then.
 Second Commit;
 
 Bad comments... please update it.
-Why it is so complecate??? 
+Why it is so complecate???
+
+## function 1
+## fucntion 2
