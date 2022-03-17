@@ -7,6 +7,4 @@ See you then.
 
 Second Commit;
 
-Hello... MY Name...
-
-Lorem Ipse.
+Bad comments... please update it.
