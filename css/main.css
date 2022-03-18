@@ -1,0 +1,9 @@
+/* Main.css */
+
+.container {
+    font: 700;
+    font-size: 16px;
+    background: tomato;
+    border: 0 auto;
+    border-radius: 10px;
+}
