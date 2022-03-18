@@ -9,5 +9,3 @@
 //Social Login for Google
 
 //Social Login for Naver
-
-//Check Pick Test for GitHub
